@@ -3,12 +3,12 @@
   <img src="https://img.shields.io/badge/PROGRAMMER-orange?style=flat-square&labelColor=FF8C00&color=FF8C00">
   
 <h3 align="center">
-  <img src="https://github.com/DEVIL-DX-5005/DEVIL-DX-5005/blob/main/assets/anim/768b108d-274f-4f44-a634-8477b16efce7.gif" width="40">
+  <img src="https://github.com/DEVIL-5005/DEVIL-5005/blob/main/assets/anim/768b108d-274f-4f44-a634-8477b16efce7.gif" width="40">
     𝐃𝐄𝐕𝐈𝐋
-  <img src="https://github.com/DEVIL-DX-5005/DEVIL-DX-5005/blob/main/assets/anim/768b108d-274f-4f44-a634-8477b16efce7.gif" width="40">
+  <img src="https://github.com/DEVIL-5005/DEVIL-5005/blob/main/assets/anim/768b108d-274f-4f44-a634-8477b16efce7.gif" width="40">
 </h3>
 
-<img align="center" alt="line" src="https://github.com/DEVIL-DX-5005/DEVIL-DX-5005/blob/main/assets/images/line-1.svg">
+<img align="center" alt="line" src="https://github.com/DEVIL-5005/DEVIL-5005/blob/main/assets/images/line-1.svg">
 
 </p>
 
@@ -18,16 +18,16 @@
   </a>
 </p>
 
-<img align="center" alt="line" src="https://github.com/DEVIL-DX-5005/DEVIL-DX-5005/blob/main/assets/images/line-1.svg">
+<img align="center" alt="line" src="https://github.com/DEVIL-5005/DEVIL-5005/blob/main/assets/images/line-1.svg">
 
 ### 🏆 Github Statistics
 <p align="center">
-  <a href="https://github.com/DEVIL-DX-5005">
+  <a href="https://github.com/DEVIL-5005">
     <img src="https://github-profile-trophy.vercel.app/?username=DEVIL-DX-5005&theme=monokai" alt="trophy">
   </a>
 </p>
 
-<img align="center" alt="line" src="https://github.com/DEVIL-DX-5005/DEVIL-DX-5005/blob/main/assets/images/line-3.svg">
+<img align="center" alt="line" src="https://github.com/DEVIL-5005/DEVIL-5005/blob/main/assets/images/line-3.svg">
 
 ### 👤 About Me
 - 😍 **NAME** :- 𝐉𝐀𝐘 𝐊𝐔𝐌𝐀𝐑
@@ -39,7 +39,7 @@
 - 💻 **HOBBY** :- 𝐏𝐑𝐎𝐆𝐑𝐀𝐌𝐌𝐈𝐍𝐆 & 𝐂𝐎𝐃𝐈𝐍𝐆
 - 📱 **FACEBOOK** :- [Visit Profile](https://www.facebook.com/profile.php?id=100071688345097)
 
-<img align="center" alt="line" src="https://github.com/DEVIL-DX-5005/DEVIL-DX-5005/blob/main/assets/images/line-3.svg">
+<img align="center" alt="line" src="https://github.com/DEVIL-5005/DEVIL-5005/blob/main/assets/images/line-3.svg">
 
 ### ⚙️ Language & Programming
 <p align="left"> 
