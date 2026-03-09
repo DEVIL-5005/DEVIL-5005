@@ -18,7 +18,7 @@
   </a>
 </p>
 
-<img align="center" alt="line" src="https://github.com/DEVIL-5005/DEVIL-5005/blob/main/assets/images/line-1.svg">
+<img align="center" alt="line" src="https://github.com/DEVIL-5005/DEVIL-5005/blob/main/assets/anim/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🏆 Github Statistics
 <p align="center">
@@ -27,7 +27,7 @@
   </a>
 </p>
 
-<img align="center" alt="line" src="https://github.com/DEVIL-5005/DEVIL-5005/blob/main/assets/images/line-3.svg">
+<img align="center" alt="line" src="https://github.com/DEVIL-5005/DEVIL-5005/blob/main/assets/anim/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 👤 About Me
 - 😍 **NAME** :- 𝐉𝐀𝐘 𝐊𝐔𝐌𝐀𝐑
@@ -39,7 +39,7 @@
 - 💻 **HOBBY** :- 𝐏𝐑𝐎𝐆𝐑𝐀𝐌𝐌𝐈𝐍𝐆 & 𝐂𝐎𝐃𝐈𝐍𝐆
 - 📱 **FACEBOOK** :- [Visit Profile](https://www.facebook.com/profile.php?id=100071688345097)
 
-<img align="center" alt="line" src="https://github.com/DEVIL-5005/DEVIL-5005/blob/main/assets/images/line-3.svg">
+<img align="center" alt="line" src="https://github.com/DEVIL-5005/DEVIL-5005/blob/main/assets/anim/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### ⚙️ Language & Programming
 <p align="left"> 
