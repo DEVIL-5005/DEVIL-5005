@@ -4,7 +4,7 @@
   
 <h3 align="center">
   <img src="https://github.com/DEVIL-KING-SYS/DEVIL-KING-SYS/blob/main/assets/anim/768b108d-274f-4f44-a634-8477b16efce7.gif" width="40">
-    𝐃𝐄𝐕𝐈𝐋
+    𝐃𝐄𝐕𝐈𝐋 𝐊𝐈𝐍𝐆
   <img src="https://github.com/DEVIL-KING-SYS/DEVIL-KING-SYS/blob/main/assets/anim/768b108d-274f-4f44-a634-8477b16efce7.gif" width="40">
 </h3>
 
