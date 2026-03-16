@@ -80,7 +80,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Developer-DEVIL%20KUMAR-red?style=for-the-badge" alt="Developer Badge" />
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status Badge" />
-  <p>Contact: <a href="mailto:devilkumardx@gmail.com"><b>DEVIL KUMAR</b></a></p>
+  <a href="mailto:devilkumardx@gmail.com"><b>Contact</b></a>
 </div>
 
 <br>
