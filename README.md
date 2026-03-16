@@ -78,9 +78,9 @@
 ---
 
 <div align="center">
-  <p>Maintained by <b>DEVIL KUMAR</b></p>
   <img src="https://img.shields.io/badge/Developer-DEVIL%20KUMAR-red?style=for-the-badge" alt="Developer Badge" />
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status Badge" />
+  <p>Maintained by <b>devilkumardx@gmail.com</b></p>
 </div>
 
 <br>
