@@ -3,12 +3,12 @@
   <img src="https://img.shields.io/badge/PROGRAMMER-orange?style=flat-square&labelColor=FF8C00&color=FF8C00">
   
 <h3 align="center">
-  <img src="https://github.com/DEVIL-KING-SYS/DEVIL-KING-SYS/blob/main/assets/anim/768b108d-274f-4f44-a634-8477b16efce7.gif" width="40">
+  <img src="https://github.com/DEVIL-KUMAR/DEVIL-KUMAR/blob/main/assets/anim/768b108d-274f-4f44-a634-8477b16efce7.gif" width="40">
     𝐃𝐄𝐕𝐈𝐋 𝐊𝐔𝐌𝐀𝐑
-  <img src="https://github.com/DEVIL-KING-SYS/DEVIL-KING-SYS/blob/main/assets/anim/768b108d-274f-4f44-a634-8477b16efce7.gif" width="40">
+  <img src="https://github.com/DEVIL-KUMAR/DEVIL-KUMAR/blob/main/assets/anim/768b108d-274f-4f44-a634-8477b16efce7.gif" width="40">
 </h3>
 
-<img align="center" alt="line" src="https://github.com/DEVIL-KING-SYS/DEVIL-KING-SYS/blob/main/assets/anim/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img align="center" alt="line" src="https://github.com/DEVIL-KUMAR/DEVIL-KUMAR/blob/main/assets/anim/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </p>
 
@@ -18,16 +18,16 @@
   </a>
 </p>
 
-<img align="center" alt="line" src="https://github.com/DEVIL-KING-SYS/DEVIL-KING-SYS/blob/main/assets/anim/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img align="center" alt="line" src="https://github.com/DEVIL-KUMAR/DEVIL-KUMAR/blob/main/assets/anim/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🏆 Github Statistics
 <p align="center">
-  <a href="https://github.com/DEVIL-KING-SYS">
-    <img src="https://github-profile-trophy.vercel.app/?username=DEVIL-DX-5005&theme=monokai" alt="trophy">
+  <a href="https://github.com/DEVIL-KUMAR">
+    <img src="https://github-profile-trophy.vercel.app/?username=DEVIL-KUMAR&theme=monokai" alt="trophy">
   </a>
 </p>
 
-<img align="center" alt="line" src="https://github.com/DEVIL-KING-SYS/DEVIL-KING-SYS/blob/main/assets/anim/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img align="center" alt="line" src="https://github.com/DEVIL-KUMAR/DEVIL-KUMAR/blob/main/assets/anim/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 👤 About Me
 - 😍 **NAME** :- 𝐃𝐄𝐕𝐈𝐋 𝐊𝐔𝐌𝐀𝐑
@@ -38,7 +38,7 @@
 - 💻 **HOBBY** :- 𝐏𝐑𝐎𝐆𝐑𝐀𝐌𝐌𝐈𝐍𝐆 & 𝐂𝐎𝐃𝐈𝐍𝐆
 - 📱 **FACEBOOK** :- [Visit Profile](https://www.facebook.com/profile.php?id=100022760917162)
 
-<img align="center" alt="line" src="https://github.com/DEVIL-KING-SYS/DEVIL-KING-SYS/blob/main/assets/anim/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img align="center" alt="line" src="https://github.com/DEVIL-KUMAR/DEVIL-KUMAR/blob/main/assets/anim/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### ⚙️ Language & Programming
 <p align="left"> 
@@ -79,7 +79,7 @@
 
 <div align="center">
   <p>Maintained by <b>DEVIL KUMAR</b></p>
-  <img src="https://img.shields.io/badge/Developer-DEVIL%20KING-red?style=for-the-badge" alt="Developer Badge" />
+  <img src="https://img.shields.io/badge/Developer-DEVIL%20KUMAR-red?style=for-the-badge" alt="Developer Badge" />
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status Badge" />
 </div>
 
