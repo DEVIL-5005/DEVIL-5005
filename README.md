@@ -22,9 +22,7 @@
 
 ### 🏆 Github Statistics
 <p align="center">
-  <a href="https://github.com/DEVIL-KUMAR">
-    <img src="https://github-profile-trophy.vercel.app/?username=DEVIL-KUMAR&theme=monokai" alt="trophy">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=DEVIL-KUMAR&show_icons=true&theme=monokai" alt="GitHub Stats" />
 </p>
 
 <img align="center" alt="line" src="https://github.com/DEVIL-KUMAR/DEVIL-KUMAR/blob/main/assets/anim/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
