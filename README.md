@@ -20,13 +20,6 @@
 
 <img align="center" alt="line" src="https://github.com/DEVIL-KUMAR/DEVIL-KUMAR/blob/main/assets/anim/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🏆 Github Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DEVIL-KUMAR&show_icons=true&theme=monokai" alt="GitHub Stats" />
-</p>
-
-<img align="center" alt="line" src="https://github.com/DEVIL-KUMAR/DEVIL-KUMAR/blob/main/assets/anim/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ### 👤 About Me
 - 😍 **NAME** :- 𝐃𝐄𝐕𝐈𝐋 𝐊𝐔𝐌𝐀𝐑
 - 🌐 **FROM** :- 𝐌𝐔𝐌𝐁𝐀𝐈
